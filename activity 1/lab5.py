@@ -1,0 +1,8 @@
+full_name = input("Enter your full name: ")
+address = input("Enter your address: ")
+contact = input("Enter your contact number: ")
+email = input("Enter your email address: ")
+print("full name:",full_name)
+print("address:",address)
+print("contact:",contact)
+print("email:",email)

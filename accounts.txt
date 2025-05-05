@@ -1,0 +1,2 @@
+sanji|123|2435.0|Withdrew: $10.0|Deposited: $2345.0
+3||100
