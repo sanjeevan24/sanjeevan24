@@ -1,3 +1,5 @@
-sanji,2499.0
+sanji,1650.0
 sanjee,100.0
 pirakee,71.0
+piravee,425657.0
+piraveenan,100.0

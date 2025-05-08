@@ -5,3 +5,10 @@ sanji,Withdrew: $1234.0
 sanji,Deposited: $3.0
 pirakee,Deposited: $2312.0
 pirakee,Withdrew: $2341.0
+piravee,Deposited: $425562.0
+piravee,Withdrew: $5.0
+sanji,Deposited: $232.0
+sanji,Deposited: 523.0
+sanji,Withdrew: 365.0
+sanji,Withdrew: 1234.0
+sanji,Withdrew: 5.0
