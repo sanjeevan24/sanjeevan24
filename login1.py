@@ -202,8 +202,8 @@ def account_operations(username, accounts, transactions):
         else:
             print("Invalid choice.")
 
-# Main program
-def main():
+# Main program 
+def mini_bank():
     adminpassword = "admin123"
 
     print("\n===== Admin Login =====")
@@ -249,5 +249,4 @@ def main():
         else:
             print("Invalid choice.")
 
-if __name__ == "__main__":
-    main()
+mini_bank()

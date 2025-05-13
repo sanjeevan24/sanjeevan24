@@ -9,3 +9,5 @@ pirakee,Withdrew: 4687.0
 pirakee,Withdrew: 3658.0
 pirakee,Withdrew: 4.0
 pirakee,Withdrew: 345.25
+sanji,Deposited: 2542.0
+sanji,Deposited: 5463.75
